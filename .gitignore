@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+
+# Eclipse/IDE metadata
+.metadata/
+
+# macOS system files
+__MACOSX/
+
+# Quartus II build outputs
+db/
+incremental_db/
+output_files/
+.qsys_edit/
+
+# Quartus workspace and backup files
+*.qws
+*.bak
+
+# SRAM Object Files (compiled bitstreams)
+*.sof
+
+# NIOS II software build outputs
+software/*/Debug/
+software/*/Release/
+software/*/.settings/
+software/*/.cproject
+software/*/.project
+software/*/obj/
+software/*/bin/
+
+# Other temporary files
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.sld
+*.done
+*.jdi
+*.cdf
